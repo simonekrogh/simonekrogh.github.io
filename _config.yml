@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Simone Krogh"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Simone Krogh"
 description              : &description "personal description"
 url                      : https://simonekrogh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -83,7 +83,7 @@ author:
   name             : "Simone Krogh"
   avatar           : "Krogh_Portrait.png"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  location         : "New York City"
   employer         :
   pubmed           : 
   googlescholar    : 
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "simonekrogh"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "SimoneMKrogh"
   vine             :
   weibo            :
   xing             :
