@@ -3,8 +3,8 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
+#  - title: "Talks"
+ #   url: /talks/    
 
   - title: "Teaching"
     url: /teaching/    
@@ -16,7 +16,7 @@ main:
     url: /year-archive/
     
   - title: "CV"
-    url: /cv/
+    url: https://simonekrogh.github.io/files/Krogh_CV_1Nov2023.docx
     
   - title: "Guide"
     url: /markdown/
