@@ -9,6 +9,6 @@ redirect_from:
 ---
 
 
-This website is under construction—check back again soon or reach me on email :)
+This website is under construction—check back again soon or reach me via email :)
 ======
 
