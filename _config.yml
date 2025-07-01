@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Simone Krogh"
+  name             : 
   avatar           : "Krogh_Portrait.png"
-  bio              : " PhD Student in Linguistics, New York University"
+  bio              : "Fourth-year PhD Student in Linguistics, New York University"
   location         : "New York City"
   employer         :
   pubmed           : 
