@@ -44,10 +44,16 @@ h1, h2, h3, h4, h5, h6 {
   font-family: 'Vollkorn', serif;
 }
 
-.masthead__menu-item--lg a {
+.masthead__menu-item--lg {
   font-family: 'Vollkorn', serif;
-  font-size: 2.2rem;
+  font-size: 3.4rem;
   font-weight: 700;
+}
+
+@media (min-width: 925px) {
+  .masthead__menu-item--lg {
+    margin-left: 4.1667%;
+  }
 }
 
 /* Custom link styling for page content */
