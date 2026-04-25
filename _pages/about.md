@@ -15,19 +15,19 @@ redirect_from:
 <script>
   (function() {
     var hour = new Date().getHours();
-    var greeting = "Good evening";
+    var greeting = "Good evening!";
 
     if (hour < 6) {
-      greeting = "Hello";
+      greeting = "Hello!";
     } else if (hour < 12) {
-      greeting = "Good morning";
+      greeting = "Good morning!";
     } else if (hour < 18) {
-      greeting = "Good afternoon";
+      greeting = "Good afternoon!";
     }
 
     var target = document.getElementById("time-greeting");
     if (target) {
-      target.textContent = greeting + ",";
+      target.innerHTML = "<strong>" + greeting + ",</strong>";
     }
   })();
 </script>
