@@ -9,9 +9,9 @@ redirect_from:
 ---
 
 
-<img src="/images/IMG_6664.jpg" alt="About page image" style="float: right; max-width: 320px; width: 60%; margin: 0 0 1rem 1.5rem;">
+<img src="/images/IMG_6664.jpg" alt="About page image" style="float: right; max-width: 320px; width: 60%; margin: 1.2em 0 1rem 1.5rem;">
 
-I am a fifth-year Linguistics PhD candidate working with [Liina Pylkkänen](https://wp.nyu.edu/neurolinglab/people/liina-pylkkanen/) in the [Neurolinguistics Lab](https://wp.nyu.edu/neurolinglab/) at NYU. My research combines neuroimaging methods with insights from linguistics and psychology to investigate how the brain flexibly integrates words into larger expressions, with a particular focus on how linguistic structure impacts neural representations of words. 
+I am a fifth-year Linguistics PhD candidate working with [Liina Pylkkänen](https://wp.nyu.edu/neurolinglab/people/liina-pylkkanen/) in the [Neurolinguistics Lab](https://wp.nyu.edu/neurolinglab/) at NYU. My research combines neuroimaging methods with insights from linguistics and psychology to investigate how the brain flexibly integrates words into larger expressions, with a particular focus on how linguistic structure impacts the neural representations of words. 
 
 Starting in the summer of 2026, I will be working as a postdoc with [Esti Blanco-Elorrieta](https://estiblancoelorrieta.github.io) in the [Neuroscience of Multilingualism Lab](https://neulabnyu.com) at NYU. 
 
