@@ -16,3 +16,5 @@ I am a fifth-year Linguistics PhD candidate working with [Liina Pylkkänen](http
 Starting in the summer of 2026, I will be working as a postdoc with [Esti Blanco-Elorrieta](https://estiblancoelorrieta.github.io) in the [Neuroscience of Multilingualism Lab](https://neulabnyu.com) at NYU. 
 
 Prior to joining NYU’s PhD program, I earned a Bachelor and Master of Arts in English Studies from the University of Copenhagen, Denmark.
+
+<i class="fas fa-envelope" aria-hidden="true"></i> <a href="mailto:simone.krogh@nyu.edu">simone[dot]krogh[æt]nyu[dot]edu</a>
