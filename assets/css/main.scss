@@ -68,15 +68,17 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
-.greedy-nav a {
+.greedy-nav .visible-links a,
+.greedy-nav .visible-links a:visited {
   font-family: 'Vollkorn', serif;
   font-weight: 700;
-  color: #172C28;
-  text-decoration: underline;
-  text-decoration-color: #172C28;
+  color: #172C28 !important;
+  text-decoration: underline !important;
+  text-decoration-color: #172C28 !important;
   text-decoration-thickness: 2px;
   text-underline-offset: 2px;
-  transition: color 0.2s ease, background-color 0.2s ease;
+  background-color: transparent;
+  transition: color 0.2s ease, background-color 0.2s ease, text-decoration-color 0.2s ease;
 }
 
 .greedy-nav .visible-links a {
@@ -87,11 +89,12 @@ h1, h2, h3, h4, h5, h6 {
   display: none;
 }
 
-.greedy-nav a:hover,
-.greedy-nav a:focus {
-  text-decoration: none;
-  background-color: #172C28;
-  color: #ffffff;
+.greedy-nav .visible-links a:hover,
+.greedy-nav .visible-links a:focus {
+  text-decoration: none !important;
+  text-decoration-color: transparent !important;
+  background-color: #172C28 !important;
+  color: #ffffff !important;
 }
 
 /* Custom link styling for page content */

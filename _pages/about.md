@@ -17,7 +17,9 @@ redirect_from:
     var hour = new Date().getHours();
     var greeting = "Good evening";
 
-    if (hour < 12) {
+    if (hour < 6) {
+      greeting = "Hello";
+    } else if (hour < 12) {
       greeting = "Good morning";
     } else if (hour < 18) {
       greeting = "Good afternoon";
