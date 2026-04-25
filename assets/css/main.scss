@@ -59,12 +59,11 @@ h1, h2, h3, h4, h5, h6 {
 
 .greedy-nav a {
   font-family: 'Vollkorn', serif;
+  font-weight: 700;
   color: #172C28;
   text-decoration: none;
-  text-decoration-color: transparent;
-  text-decoration-thickness: 2px;
-  text-underline-offset: 2px;
-  transition: text-decoration-color 0.2s ease;
+  border-bottom: 2px solid transparent;
+  transition: border-color 0.2s ease;
 }
 
 .greedy-nav .visible-links a {
@@ -77,8 +76,8 @@ h1, h2, h3, h4, h5, h6 {
 
 .greedy-nav a:hover,
 .greedy-nav a:focus {
-  text-decoration: underline;
-  text-decoration-color: #172C28;
+  text-decoration: none;
+  border-bottom-color: #172C28;
 }
 
 /* Custom link styling for page content */
