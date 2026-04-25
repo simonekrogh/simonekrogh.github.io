@@ -27,7 +27,7 @@ redirect_from:
 
     var target = document.getElementById("time-greeting");
     if (target) {
-      target.innerHTML = "<strong>" + greeting + ",</strong>";
+      target.innerHTML = "<strong>" + greeting + "</strong>";
     }
   })();
 </script>
