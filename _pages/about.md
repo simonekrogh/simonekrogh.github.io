@@ -9,6 +9,8 @@ redirect_from:
 ---
 
 
+<img src="/images/IMG_6664.jpg" alt="About page image" style="float: right; max-width: 320px; width: 40%; margin: 0 0 1rem 1.5rem;">
+
 I am a fifth-year Linguistics PhD candidate working with [Liina Pylkkänen](https://wp.nyu.edu/neurolinglab/people/liina-pylkkanen/) in the [Neurolinguistics Lab](https://wp.nyu.edu/neurolinglab/) at NYU. My research uses magnetoencephalography (MEG) to study the brain mechanisms underlying different syntactic processes, with a specific focus on how these surface during  at-a-glance processing of multi-word stimuli (a stimulus delivery technique known as Rapid Parallel Visual Presentation). Starting in the summer of 2026, I will be working as a postdoc with [Esti Blanco-Elorrieta](https://estiblancoelorrieta.github.io) in the [Neuroscience of Multilingualism Lab](https://neulabnyu.com) at NYU. 
 
 For my dissertation, I am working on a large-scale MEG project investigating how neural representations are shaped by their functional roles and the surrounding context during serial and parallel presentation. I have also conducted an MEG project contrasting Danish two-word sentence to investigate syntactic dependencies in a working memory-free paradigm.
