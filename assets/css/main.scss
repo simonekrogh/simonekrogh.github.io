@@ -49,10 +49,11 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 3rem;
   font-weight: 700;
   color: #172C28;
+  padding-left: 0;
 }
 
 @media (min-width: 925px) {
-  .greedy-nav .visible-links li:first-child {
+  .masthead__menu-item--lg {
     padding-left: 20.8333%;
   }
 }
