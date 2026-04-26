@@ -54,7 +54,7 @@ h1, h2, h3, h4, h5, h6 {
 
 @media (min-width: 925px) {
   .masthead__menu-item--lg {
-    padding-left: 24%;
+    padding-left: calc(24% + 48px);
   }
 }
 
