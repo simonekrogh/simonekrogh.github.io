@@ -32,7 +32,7 @@ redirect_from:
   })();
 </script>
 
-I am a postdoc working with with [Esti Blanco-Elorrieta](https://estiblancoelorrieta.github.io) in the [Neuroscience of Multilingualism Lab](https://neulabnyu.com) at NYU. My research combines neuroimaging methods with insights from linguistics and psychology to investigate how the (bilingual) brain flexibly integrates words into larger expressions.
+I am a postdoc working with [Esti Blanco-Elorrieta](https://estiblancoelorrieta.github.io) in the [Neuroscience of Multilingualism Lab](https://neulabnyu.com) at NYU. My research combines neuroimaging methods with insights from linguistics and psychology to investigate how the (bilingual) brain flexibly integrates words into larger expressions.
 
 I received my PhD in Linguistics at NYU, where I worked with [Liina Pylkkänen](https://wp.nyu.edu/neurolinglab/people/liina-pylkkanen/) in the [Neurolinguistics Lab](https://wp.nyu.edu/neurolinglab/). Before that, I earned a Bachelor and Master of Arts in English Studies from the University of Copenhagen, Denmark.
 
