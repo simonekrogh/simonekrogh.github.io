@@ -36,4 +36,6 @@ I am a postdoc working with [Esti Blanco-Elorrieta](https://estiblancoelorrieta.
 
 I received my PhD in Linguistics at NYU, where I worked with [Liina Pylkkänen](https://wp.nyu.edu/neurolinglab/people/liina-pylkkanen/) in the [Neurolinguistics Lab](https://wp.nyu.edu/neurolinglab/). Before that, I earned a Bachelor and Master of Arts in English Studies from the University of Copenhagen, Denmark.
 
+The preprints of my dissertation research are now up! Part of it focused on how linguistic structure reshapes word meanings, using a [syntactic](https://www.biorxiv.org/content/10.64898/2026.09.23.753793v1) and a [semantic](https://www.biorxiv.org/content/10.64898/2026.09.23.753808v1) manipulation to make animacy disappear from the neural representation of a word. [The final paper](https://www.biorxiv.org/content/10.64898/2026.09.23.753812v1) provides the first direct comparison of language processing during serial and parallel presentation.
+
 <i class="fas fa-envelope" aria-hidden="true"></i> <a href="mailto:simone.krogh@nyu.edu">simone[dot]krogh[æt]nyu[dot]edu</a>
